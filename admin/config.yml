@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: /an-droidx/Myblog
+  repo: https://github.com/an-droidx/Myblog
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
