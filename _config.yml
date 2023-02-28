@@ -9,7 +9,7 @@ email: 'Myinbox@my.id'
 mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /title
+permalink: /:title
 
 # Plugins
 plugins: 
