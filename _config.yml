@@ -3,13 +3,13 @@ name: 'IDEV'
 description: 'Hi, I am IDEV, the author of IDEV, Share Tips About Blogger!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://hacktives.github.io/Myblog/'
+baseurl: 'https://hacktives.github.io/Myblog'
 disqus: ''
 email: 'Myinbox@my.id'
 mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title
+permalink: :title
 
 # Plugins
 plugins: 
